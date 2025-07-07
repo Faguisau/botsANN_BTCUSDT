@@ -1,0 +1,9 @@
+pandas
+numpy
+ta
+tensorflow
+scikit-learn
+joblib
+python-binance
+python-dotenv
+requests
